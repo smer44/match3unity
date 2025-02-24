@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenu">
+			<method name="QuitGame"/>
+			<method name="StartGame"/>
+		</type>
+		<type fullname="TileScript">
+			<method name="SetRandomElement"/>
+		</type>
+	</assembly>
+</linker>
