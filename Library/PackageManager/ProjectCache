@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: E:/unityProjects/match3/Packages/manifest.json
+    m_FilePath: E:/2022workspaces/PycharmProjects/match3unity/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638759406840542594
     m_Hash: 1751062051
   m_LockFileStatus:
-    m_FilePath: E:/unityProjects/match3/Packages/packages-lock.json
+    m_FilePath: E:/2022workspaces/PycharmProjects/match3unity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: E:/unityProjects/match3/Packages
+m_ProjectPath: E:/2022workspaces/PycharmProjects/match3unity/Packages
 m_EditorVersion: 6000.0.39f1 (15ea7ed0b100)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\unityProjects\match3\Library\PackageCache\com.unity.2d.sprite@072d7bd355e5
+  resolvedPath: E:\2022workspaces\PycharmProjects\match3unity\Library\PackageCache\com.unity.2d.sprite@072d7bd355e5
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -97,7 +97,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.13.1
   source: 1
-  resolvedPath: E:\unityProjects\match3\Library\PackageCache\com.unity.inputsystem@e2c83221d2dc
+  resolvedPath: E:\2022workspaces\PycharmProjects\match3unity\Library\PackageCache\com.unity.inputsystem@e2c83221d2dc
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -246,7 +246,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: E:\unityProjects\match3\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: E:\2022workspaces\PycharmProjects\match3unity\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -336,7 +336,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: E:\unityProjects\match3\Library\PackageCache\com.unity.ugui@03407c6d8751
+  resolvedPath: E:\2022workspaces\PycharmProjects\match3unity\Library\PackageCache\com.unity.ugui@03407c6d8751
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI

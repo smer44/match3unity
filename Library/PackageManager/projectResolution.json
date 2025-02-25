@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "E:/unityProjects/match3/Packages",
+    "projectPath": "E:/2022workspaces/PycharmProjects/match3unity/Packages",
     "unityVersion": "6000.0.39f1"
   },
   "inputs": [
-    "E:\\unityProjects\\match3\\Packages\\manifest.json",
-    "E:\\unityProjects\\match3\\Packages\\packages-lock.json",
+    "E:\\2022workspaces\\PycharmProjects\\match3unity\\Packages\\manifest.json",
+    "E:\\2022workspaces\\PycharmProjects\\match3unity\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.39f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
       "displayName": "2D Sprite",
-      "resolvedPath": "E:\\unityProjects\\match3\\Library\\PackageCache\\com.unity.2d.sprite@072d7bd355e5",
+      "resolvedPath": "E:\\2022workspaces\\PycharmProjects\\match3unity\\Library\\PackageCache\\com.unity.2d.sprite@072d7bd355e5",
       "fingerprint": "072d7bd355e55ee3ded20a6a52435a4f5fded0d8",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
@@ -22,7 +22,7 @@
     "com.unity.inputsystem@1.13.1": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "E:\\unityProjects\\match3\\Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc",
+      "resolvedPath": "E:\\2022workspaces\\PycharmProjects\\match3unity\\Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc",
       "fingerprint": "e2c83221d2dc3fc990b017cbd3f9d0742649c8a8",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.13.1",
@@ -32,7 +32,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "E:\\unityProjects\\match3\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "E:\\2022workspaces\\PycharmProjects\\match3unity\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -42,7 +42,7 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "E:\\unityProjects\\match3\\Library\\PackageCache\\com.unity.ugui@03407c6d8751",
+      "resolvedPath": "E:\\2022workspaces\\PycharmProjects\\match3unity\\Library\\PackageCache\\com.unity.ugui@03407c6d8751",
       "fingerprint": "03407c6d875144b0a8ffdc0af3e0d5cccfa5a4ae",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
